@@ -17,3 +17,5 @@ Incomplete components due to time restriction
 * No offline downloading of images
 * ORM such as Room Persistence Library not implemented which would have helped in designing for MVP pattern
 * Keys on database
+
+![picture alt](https://raw.githubusercontent.com/sanathss/Celo/master/detailView.png)
