@@ -18,4 +18,12 @@ Incomplete components due to time restriction
 * ORM such as Room Persistence Library not implemented which would have helped in designing for MVP pattern
 * Keys on database
 
+###Recycler View of Users###
+This shows the search bar as well as users loaded in currently with their corresponding thumbnail.
+The search bar will only filter the list based on the first name at the moment.
 ![picture alt](https://raw.githubusercontent.com/sanathss/Celo/master/detailView.png)
+
+
+###Detailed View of User###
+As seen, the UI contains important information but does not have labels or a pleasing design yet.
+![picture alt](https://raw.githubusercontent.com/sanathss/Celo/master/recyclerView.png)
